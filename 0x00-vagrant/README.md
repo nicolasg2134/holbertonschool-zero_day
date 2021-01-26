@@ -1,1 +1,1 @@
-emacs y vagrabt intalations
+Linux
